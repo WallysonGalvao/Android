@@ -9,6 +9,7 @@
 
 #### Web Service parte 2: Mais técnicas de sincronização
 -   Editando, removendo e atualizando alunos
+-   Recebendo informações do servidor
 
 
 > Obs: Para rodar o servidor entre na raiz da pasta **server** e no terminal execute o seguinte comando:
