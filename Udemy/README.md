@@ -1,4 +1,4 @@
-# Código do Curso [Advanced Android Development](https://www.udemy.com/advanced-android-development/learn/v4/content)
+# Código do Curso [Advanced Android Development](https://www.udemy.com/advanced-android-development/)
 
 #### Introduction: 
 -   Introduction - What are we building in this course?
@@ -35,3 +35,10 @@
 -   FullscreenPhoto - Activity
 -   Get Photo from Unplash by ID
 -   Set Wallpaper function
+
+### Section 06
+#### Favorite Photos - Realm
+-   Import and Initialize Realm
+-   Create RealmController
+-   Handle Favorite Button
+-   Get all photos from Realm
