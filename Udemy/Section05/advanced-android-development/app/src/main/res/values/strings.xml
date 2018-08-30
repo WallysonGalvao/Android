@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Wallpaper</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="beautifully_mountain">Beautifully Mountain</string>
+    <string name="_12_photos">12 photos</string>
+    <string name="makers_cat_and_ben">Makers: Cat and Ben</string>
+    <string name="favorite">Favorite</string>
+    <string name="wallpaper">Wallpaper</string>
+    <string name="image">Image</string>
+</resources>

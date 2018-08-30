@@ -9,6 +9,7 @@
 -   Create Main Fragments
 -   Register Unplash Developer Account
 
+### Section 03
 #### Photos Fragment - ButterKnife, Retrofit, GSON
 -   Import ButterKnife
 -   Create Photos View
@@ -17,3 +18,20 @@
 -   Create models
 -   Create PhotosAdapter
 -   Get Photos From Unplash
+
+### Section 04
+#### Collections Fragment
+-   Create Collection - View
+-   Create Collection Model
+-   Create CollectionsAdapter
+-   Get Collections from Unplash
+-   Create Collection View
+-   Get Photos of Collection by ID
+
+
+### Section 05
+#### Set Wallpaper - Fullscreen Photo
+-   FullscreenPhoto - View
+-   FullscreenPhoto - Activity
+-   Get Photo from Unplash by ID
+-   Set Wallpaper function
